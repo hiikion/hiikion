@@ -1,4 +1,4 @@
-<a href="https://hiikion.github.io/" target="_blank">https://hiikion.github.io/</a>
+
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiikion&show_icons=true&theme=dark&count_private=true" />
