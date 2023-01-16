@@ -1,8 +1,5 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiikion&show_icons=true&theme=dark&count_private=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiikion&layout=compact&theme=dark" />
-</a>
+### Zero projects completed
